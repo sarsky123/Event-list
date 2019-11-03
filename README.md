@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # r-w-v
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Event-list
+Vue exercise by building event list
+>>>>>>> 7877cb133b26060e1ff774d7d7a3bfaf6cdf85e1
